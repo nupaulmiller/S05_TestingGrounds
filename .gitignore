@@ -1,3 +1,11 @@
+###############################
+# Unreal Engine Derived Files #
+###############################
+**/Content/StarterContent/
+**/Content/MobileStarterContent/
+**/MegascansPlugin/
+**/Content/Megascans/
+
 Binaries
 DerivedDataCache
 Intermediate
